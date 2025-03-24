@@ -1,0 +1,6 @@
+I think a good improvement would be to add UCB1 algorithm.
+
+This algorithm instead of using random choices or probability distributions picks the arm that looks best based on its past rewards and how many times we tried it.
+
+UCB1 is smart because it gives more chances to arms that we haven’t tested much, but still keeps picking the best ones. It can learn quickly and has good performance in theory.
+
