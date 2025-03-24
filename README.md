@@ -8,7 +8,7 @@
 - `png/`: Contains plots showing learning progress, rewards, and regrets.
 - `bonus_suggestion.txt`: My suggestion for a better or extended implementation.
 
-## 📊 Visualizations
+## Visualizations
 
 The following plots are generated:
 - Reward per trial (linear & log scale)
